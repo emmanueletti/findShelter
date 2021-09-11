@@ -70,7 +70,7 @@ DB_URL=
 
 Clone the repository:
 ```shell
-git clone git@github.com:ricardowgomes/findShelter.git
+git clone git@github.com:emmanueletti/findShelter.git
 ```
 
 Install all the dependencies::
